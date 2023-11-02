@@ -1,7 +1,6 @@
 <template>
   <div>
     <!-- NAVBAR -->
-
     <header
       class="sticky top-0 z-50 flex justify-between items-center space-x-1 border-b bg-white py-5 px-64 shadow-md"
     >
@@ -22,6 +21,6 @@
       </div>
     </header>
     <!-- NAVBAR -->
-    
+
   </div>
 </template>
