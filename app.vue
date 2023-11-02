@@ -21,6 +21,6 @@
       </div>
     </header>
     <!-- NAVBAR -->
-    
+
   </div>
 </template>
