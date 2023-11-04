@@ -19,7 +19,7 @@
           <li class="font-normal hover:font-bold">RESERVAR</li>
         </ul>
         <div class="bg-black rounded-full py-3 px-8 hover:bg-zinc-900">
-          <button class="text-white font-normal hover:font-bold">
+          <button class="text-white font-normal ">
             CONTATO
           </button>
         </div>
