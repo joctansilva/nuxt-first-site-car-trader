@@ -6,10 +6,14 @@ function toTitleCase(str) {
     return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
   });
 }
-useHead({
-  title: toTitleCase(route.params.name),script
+
+definePageMeta({
+  layout: "custom",
 });
 
+useHead({
+  title: toTitleCase(route.params.name),
+});
 </script>
 
 <template>
