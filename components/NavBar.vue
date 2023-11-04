@@ -14,9 +14,9 @@
       </div>
       <div class="flex justify-between space-x-10">
         <ul class="flex justify-between items-center space-x-10 flex-row">
-          <li class="font-normal hover:font-bold">HOME</li>
-          <li class="font-normal hover:font-bold">CARROS</li>
-          <li class="font-normal hover:font-bold">RESERVAR</li>
+          <li class="font-normal hover:underline">HOME</li>
+          <li class="font-normal hover:underline">CARROS</li>
+          <li class="font-normal hover:underline">RESERVAR</li>
         </ul>
         <div class="bg-black rounded-full py-3 px-8 hover:bg-zinc-900">
           <button class="text-white font-normal ">
