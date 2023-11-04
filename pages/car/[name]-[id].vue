@@ -1,5 +1,5 @@
 <template>
-    <div>
-        <CarDetailPage />
-    </div>
+  <div>
+    <CarDetailPage />
+  </div>
 </template>
