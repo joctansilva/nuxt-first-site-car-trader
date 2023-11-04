@@ -2,11 +2,13 @@
   <header
     class="sticky top-0 z-50 flex justify-between items-center space-x-1 border-b bg-white py-5 px-64 shadow-md"
   >
-    <NuxtLink to="/">
-      <div class="flex bg-black rounded-full p-4">
-        <a class="text-3xl font-mono text-white font-bold" href="">CarTrader</a>
-      </div></NuxtLink
-    >
+    <div class="flex bg-black rounded-full p-4">
+      <NuxtLink to="/"
+        ><a class="text-3xl font-mono text-white font-bold"
+          >CarTrader</a
+        ></NuxtLink
+      >
+    </div>
     <div class="flex justify-between space-x-10">
       <ul class="flex justify-between items-center space-x-10 flex-row">
         <li class="font-normal hover:font-bold">HOME</li>
