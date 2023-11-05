@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "name": "Range Rover Sport",
+    "price": "84,777",
+    "url": "https://www.carhelpcanada.com/wp-content/uploads/2019/12/2020-Range-Rover-Evoque-2.jpg",
+    "seats": 5,
+    "miles": "14,666",
+    "features": [
+      "No Accidents",
+      "Low KM",
+      "Vehicle Detailed",
+      "Leather Interior"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 2,
+    "name": "Rolls Royce Ghost",
+    "price": "455,000",
+    "url": "https://robbreport.com/wp-content/uploads/2021/03/1-5.jpg?w=1000",
+    "seats": 5,
+    "miles": "53,666",
+    "features": [
+      "No Accidents",
+      "Low KM",
+      "Vehicle Detailed",
+      "Leather Interior"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam! Numquam ut rem, blanditiis est rerum tenetur maxime delectus"
+  },
+  {
+    "id": 4,
+    "name": "Porsche Taycan",
+    "price": "180,434",
+    "url": "https://www.topgear.com/sites/default/files/cars-car/carousel/2021/02/pcgb20_1441_fine.jpg",
+    "seats": 5,
+    "miles": "0",
+    "features": [
+      "No Accidents",
+      "Low KM",
+      "Vehicle Detailed",
+      "Leather Interior"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et"
+  },
+  {
+    "id": 1,
+    "name": "Range Rover Sport",
+    "price": "84,777",
+    "url": "https://www.carhelpcanada.com/wp-content/uploads/2019/12/2020-Range-Rover-Evoque-2.jpg",
+    "seats": 5,
+    "miles": "14,666",
+    "features": [
+      "No Accidents",
+      "Low KM",
+      "Vehicle Detailed",
+      "Leather Interior"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 2,
+    "name": "Rolls Royce Ghost",
+    "price": "455,000",
+    "url": "https://robbreport.com/wp-content/uploads/2021/03/1-5.jpg?w=1000",
+    "seats": 5,
+    "miles": "53,666",
+    "features": [
+      "No Accidents",
+      "Low KM",
+      "Vehicle Detailed",
+      "Leather Interior"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam! Numquam ut rem, blanditiis est rerum tenetur maxime delectus"
+  },
+  {
+    "id": 3,
+    "name": "Porsche Taycan",
+    "price": "180,434",
+    "url": "https://www.topgear.com/sites/default/files/cars-car/carousel/2021/02/pcgb20_1441_fine.jpg",
+    "seats": 5,
+    "miles": "0",
+    "features": [
+      "No Accidents",
+      "Low KM",
+      "Vehicle Detailed",
+      "Leather Interior"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et"
+  },
+  {
+    "id": 4,
+    "name": "BMW X5",
+    "price": "65,000",
+    "url": "https://www.bmwusa.com/dam/brandsites/teaserimages/cpo/2022-x5-cpo.jpg",
+    "seats": 5,
+    "miles": "20,000",
+    "features": ["Low KM", "Leather Interior"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 5,
+    "name": "Mercedes-Benz C-Class",
+    "price": "45,500",
+    "url": "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2022/oem/2022_mercedes-benz_c-class_sedan_c-300_4dr_sedan_base_fq_oem_1_600.jpg",
+    "seats": 5,
+    "miles": "10,000",
+    "features": ["No Accidents", "Low KM", "Leather Interior"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 6,
+    "name": "Audi A6",
+    "price": "55,000",
+    "url": "https://www.audiusa.com/content/dam/audiusa/vehicle-images/2022/a6/oem/2022-a6-sedan-oem-image.png",
+    "seats": 5,
+    "miles": "15,000",
+    "features": ["No Accidents", "Leather Interior"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 7,
+    "name": "Ford Mustang",
+    "price": "40,000",
+    "url": "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2023/homepage/mustang_oem_01.jpg",
+    "seats": 4,
+    "miles": "8,000",
+    "features": ["Low KM", "Vehicle Detailed", "Leather Interior"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 8,
+    "name": "Toyota Camry",
+    "price": "25,000",
+    "url": "https://www.toyota.com/imgix/responsive-images/hybrids/gallery/camry/2023-gallery-camry-hybrid-01.jpg",
+    "seats": 5,
+    "miles": "12,000",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et"
+  },
+  {
+    "id": 9,
+    "name": "Honda Civic",
+    "price": "20,000",
+    "url": "https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2023/CivicSedan/Hero/Hero_Civic_Sedan_1500x750.jpg",
+    "seats": 5,
+    "miles": "10,000",
+    "features": ["No Accidents", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 10,
+    "name": "Chevrolet Silverado",
+    "price": "35,000",
+    "url": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2023/trucks/silverado-hd/01-images/03-pdfs/23-CHE-TRU-40828-Silverado_HD_22MY_Gallery_Heritage_1000x700_SILOS_Page_1.jpg",
+    "seats": 5,
+    "miles": "25,000",
+    "features": ["No Accidents", "Towing Package"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 11,
+    "name": "Tesla Model 3",
+    "price": "50,000",
+    "url": "https://www.tesla.com/xNVh4yUEc3B9/05_TM3_V1.jpg",
+    "seats": 5,
+    "miles": "5,000",
+    "features": ["Electric", "Autopilot", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 12,
+    "name": "Jeep Wrangler",
+    "price": "35,000",
+    "url": "https://www.jeep.com/content/dam/jeep/en_us/brand/2023/wrangler-4xe/hero/lifestyle/Mopar_Slideshow_Fourdr-4xe_LifestyleHERO_2023_WRANGLER-4XE_HERO.jpg",
+    "seats": 4,
+    "miles": "15,000",
+    "features": ["Off-Road", "Low KM", "Convertible"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 13,
+    "name": "Subaru Outback",
+    "price": "30,000",
+    "url": "https://www.subaru.com/content/dam/subaru/dcp/packaging/2023/outback-2/out-outback-2023-hero-trims-00.jpg",
+    "seats": 5,
+    "miles": "12,000",
+    "features": ["All-Wheel Drive", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 14,
+    "name": "Lexus RX",
+    "price": "45,000",
+    "url": "https://www.lexus.com/models/RX/hero/2023.png",
+    "seats": 5,
+    "miles": "8,000",
+    "features": ["Luxury Interior", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 15,
+    "name": "Ford Explorer",
+    "price": "42,000",
+    "url": "https://www.ford.com/content/dam/ford/seo/general/2023-vehicles/2023-Ford-Explorer-Hero.jpg",
+    "seats": 7,
+    "miles": "10,000",
+    "features": ["Third-Row Seating", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 16,
+    "name": "Nissan Altima",
+    "price": "22,000",
+    "url": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/altima/2023/overview/2023-nissan-altima-h3-1-o.jpg",
+    "seats": 5,
+    "miles": "12,000",
+    "features": ["Fuel-Efficient", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 17,
+    "name": "Mazda CX-5",
+    "price": "28,000",
+    "url": "https://www.mazdausa.com/siteassets/vehicles/2023/cx-5/trims/cx5-2023-trim-gfx-zm.jpg",
+    "seats": 5,
+    "miles": "9,000",
+    "features": ["Compact SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 18,
+    "name": "Hyundai Sonata",
+    "price": "23,000",
+    "url": "https://www.hyundaiusa.com/us/en/vehicles/2023/sonata/gallery/2023-hyundai-sonata-5-gray-US.jpg",
+    "seats": 5,
+    "miles": "11,000",
+    "features": ["Fuel-Efficient", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 19,
+    "name": "Kia Sorento",
+    "price": "30,000",
+    "url": "https://www.kia.com/us/system/vehicle/hybrids/sorento/2023/overview/sorento-2023-overview-gal1-mob.jpg",
+    "seats": 7,
+    "miles": "8,000",
+    "features": ["Third-Row Seating", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 20,
+    "name": "GMC Sierra 1500",
+    "price": "38,000",
+    "url": "https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2023/trucks/sierra-1500-limited/01-images/23-GMC-Sierra-1500-Limited.jpg",
+    "seats": 6,
+    "miles": "15,000",
+    "features": ["Crew Cab", "Towing Package"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 21,
+    "name": "Acura MDX",
+    "price": "42,000",
+    "url": "https://www.acura.com/-/media/Acura-Campaigns/Campaign-Images/2023-MDX-Hybrid/2023_MDX_Hybrid_Gallery_Page/s6/2023-MDX-Hybrid-Gallery-Page-s6-CU-Web-Header-Desktop.png",
+    "seats": 7,
+    "miles": "9,000",
+    "features": ["Luxury Interior", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 22,
+    "name": "Volkswagen Golf",
+    "price": "25,000",
+    "url": "https://www.vw.com/content/dam/vwcom/2023/golf-r/media-hero/2023-Volkswagen-Golf-R-Hero.jpg",
+    "seats": 5,
+    "miles": "7,000",
+    "features": ["Hatchback", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 23,
+    "name": "Chrysler 300",
+    "price": "27,000",
+    "url": "https://www.chrysler.com/content/dam/chrysler/na/us/english/index/vehicles/2023/300/1-images/23-CHRYSLER-300-GALLERY-THUMB.jpg",
+    "seats": 5,
+    "miles": "10,000",
+    "features": ["Luxury Sedan", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 24,
+    "name": "Buick Encore",
+    "price": "22,000",
+    "url": "https://www.buick.com/content/dam/gb-global/na/us/2023/campaign-pages/encore/2023-buick-encore-fwd-express-mobile-campaign-page.jpg",
+    "seats": 5,
+    "miles": "6,000",
+    "features": ["Compact SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 25,
+    "name": "Nissan Rogue",
+    "price": "26,000",
+    "url": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/rogue-sport/2023/overview/23-rogue-sport-gal1-1300.jpg",
+    "seats": 5,
+    "miles": "11,000",
+    "features": ["Compact SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 26,
+    "name": "Chevrolet Equinox",
+    "price": "28,000",
+    "url": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2023/suvs/equinox/01-images/2023-CHE-EQUINOX-GALLERY-THUMB.jpg",
+    "seats": 5,
+    "miles": "9,000",
+    "features": ["Compact SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 28,
+    "name": "Toyota RAV4",
+    "price": "30,000",
+    "url": "https://www.toyota.com/imgix/responsive-images/hybrids/gallery/rav4/2023-gallery-rav4-hybrid-01.jpg",
+    "seats": 5,
+    "miles": "14,000",
+    "features": ["Compact SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 29,
+    "name": "Jeep Grand Cherokee",
+    "price": "33,000",
+    "url": "https://www.jeep.com/content/dam/jeep/en_us/brand/2023/grand-cherokee/hero/jeep-hero-grand-cherokee.png",
+    "seats": 5,
+    "miles": "12,000",
+    "features": ["Off-Road", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 30,
+    "name": "Honda CR-V",
+    "price": "28,000",
+    "url": "https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2023/CR-V/cr-v-hybrid/2023-Honda-CR-V-Hybrid-Gallery-Page-S1.jpg",
+    "seats": 5,
+    "miles": "10,000",
+    "features": ["Compact SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 31,
+    "name": "Kia Forte",
+    "price": "20,000",
+    "url": "https://www.kia.com/us/system/vehicle/sedans/forte/2023/overview/forte-2023-overview-gal2-mob.jpg",
+    "seats": 5,
+    "miles": "8,000",
+    "features": ["Sedan", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 32,
+    "name": "Volkswagen Passat",
+    "price": "24,000",
+    "url": "https://www.vw.com/content/dam/vwcom/2023/passat/media-hero/2023-Volkswagen-Passat-Hero.jpg",
+    "seats": 5,
+    "miles": "9,000",
+    "features": ["Sedan", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 33,
+    "name": "Audi Q5",
+    "price": "38,000",
+    "url": "https://www.audiusa.com/content/dam/audiusa/vehicle-images/2023/q5/oem/2023-audi-q5-horizonbluehero.jpg",
+    "seats": 5,
+    "miles": "10,000",
+    "features": ["Luxury SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 34,
+    "name": "Hyundai Elantra",
+    "price": "22,000",
+    "url": "https://www.hyundaiusa.com/us/en/vehicles/2023/elantra/2023-hyundai-elantra-red-US.jpg",
+    "seats": 5,
+    "miles": "6,000",
+    "features": ["Sedan", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 35,
+    "name": "Subaru Forester",
+    "price": "32,000",
+    "url": "https://www.subaru.com/content/dam/subaru/na/us/vehicles/2023/forester/forester-hero-landing.jpg",
+    "seats": 5,
+    "miles": "14,000",
+    "features": ["All-Wheel Drive", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 36,
+    "name": "Buick Enclave",
+    "price": "34,000",
+    "url": "https://www.buick.com/content/dam/gb-global/na/us/2023/campaign-pages/enclave/2023-buick-enclave-fwd-avenir-express-mobile-campaign-page.jpg",
+    "seats": 7,
+    "miles": "12,000",
+    "features": ["Third-Row Seating", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 37,
+    "name": "Ford Escape",
+    "price": "26,000",
+    "url": "https://www.ford.com/content/dam/ford/seo/general/2023-vehicles/2023-Ford-Escape-Hero.jpg",
+    "seats": 5,
+    "miles": "11,000",
+    "features": ["Compact SUV", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 38,
+    "name": "Chevrolet Malibu",
+    "price": "24,000",
+    "url": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2023/cars/malibu/01-images/23-CHE-MALIBU-GALLERY-THUMB.jpg",
+    "seats": 5,
+    "miles": "10,000",
+    "features": ["Sedan", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 39,
+    "name": "Lexus ES",
+    "price": "38,000",
+    "url": "https://www.lexus.com/models/ES/hero/2023.png",
+    "seats": 5,
+    "miles": "9,000",
+    "features": ["Luxury Sedan", "Low KM"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  }
+]
