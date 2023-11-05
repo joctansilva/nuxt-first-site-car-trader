@@ -17,7 +17,7 @@ const { dolarsToReais } = useUtilities();
         <p class="mr-2">{{ car.seats }} lugares</p>
         <p class="mr-2">|</p>
         <p class="mr-2">
-          {{ milesToKilometer(car.miles).toString() }} kilometros
+          {{ milesToKilometer(car.miles).toString() }}
         </p>
       </div>
       <div>

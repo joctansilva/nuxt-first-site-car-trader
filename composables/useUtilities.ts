@@ -9,9 +9,12 @@ export const useUtilities = () => {
     const miles = parseFloat(milesAsString);
 
     if (!isNaN(miles)) {
+      if (miles === 0) {
+        return "0 Kilometro";
+      }
       const kilometers = miles * 1.60934;
       const roundedKilometers = kilometers.toFixed(3);
-      return roundedKilometers;
+      return roundedKilometers + " kilometros";
     } else {
       return "Valor inválido";
     }
