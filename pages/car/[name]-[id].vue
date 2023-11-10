@@ -3,10 +3,6 @@ const route = useRoute();
 const { cars } = useCars();
 const { toTitleCase } = useUtilities();
 
-definePageMeta({
-  layout: "custom",
-});
-
 useHead({
   title: toTitleCase(route.params.name),
 });
@@ -16,10 +12,21 @@ const car = computed(() => {
     return c.id === parseInt(route.params.id);
   });
 });
+
+if (!car.value) {
+  throw createError({
+    statusCode: 404,
+    message: `Car with ID of ${route.params.id} does not exist`,
+  });
+}
+
+definePageMeta({
+  layout: "custom",
+});
 </script>
 
 <template>
-  <div v-if="car">
+  <div>
     <CarDetailHero :car="car" />
     <CarDetailAttributes :features="car.features" />
     <CarDetailDescription :description="car.description" />

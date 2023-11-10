@@ -7,6 +7,12 @@ const handleSearch = () => {
   }
   navigateTo(`/city/${city.value}/car`);
 };
+
+const handlerEnterKey = (event) => {
+  if (event.key === 'Enter') {
+    handleSearch()
+  }
+}
 </script>
 
 <template>
@@ -21,6 +27,7 @@ const handleSearch = () => {
       class="py-3 px-5 w-full text-2xl rounded-full focus:outline-none"
       placeholder="Procure pela cidade..."
       v-model="city"
+      @keyup="handlerEnterKey"
     />
     <button
       class="bg-black px-10 text-white hover:bg-zinc-900"
